@@ -6,9 +6,9 @@ export const USER_REGISTER = 'USER_REGISTER';
 export const GET_CURRENCY = 'GET_CURRENCY';
 export const ADD_EXPENSE = 'ADD_EXPENSE';
 export const CHANGE_EXPENSE = 'CHANGE_EXPENSE';
-export const REMOVE_EXPENSE = 'REMOVE_EXPENSE';
+// export const REMOVE_EXPENSE = 'REMOVE_EXPENSE';
 export const EDIT_EXPENSE = 'EDIT_EXPENSE';
-export const EDIT_EXPENSE_DONE = 'EDIT_EXPENSE_DONE';
+// export const EDIT_EXPENSE_DONE = 'EDIT_EXPENSE_DONE';
 
 export const userRegister = (email) => ({
   type: USER_REGISTER,
